@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=260&section=header&text=Deeklming's&fontSize=80&desc=github&descSize=30&descAlignY=55)
 
-## 👋 Hi~~
+## 👋 hmm... Hi?
 
 ## 👀 Study Log
 &emsp;&emsp; Skills-Syntax-SL   
