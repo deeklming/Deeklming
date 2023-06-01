@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=260&section=header&text=Deeklming's&fontSize=80&desc=github&descSize=30&descAlignY=55)
 
-## 👋 hmm... Hi?
+## 👋 hmm... Hello?
+
 
 ## 👀 Study Log
-&emsp;&emsp; Skills-Syntax-SL   
+&emsp;&emsp; Skills-Syntax-SL : programming language, markup, tools...   
 &emsp;&emsp; Data-Structure-Algorithm   
 &emsp;&emsp; Etc-Programming-Functions   
-&emsp;&emsp; Systems-Programming-Things-Design   
+&emsp;&emsp; Systems-Programming-Things-Design : network programming...   
 &emsp;&emsp; Framework-Library   
 
 ## 💀 Mini Project
