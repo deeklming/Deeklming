@@ -1,19 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=260&section=header&text=Deeklming's&fontSize=80&desc=github&descSize=30&descAlignY=55)
 
-## 👋 hmm... Hello?
+## 👋 Hello?
 
 
 ## 👀 Study Log
-&emsp;&emsp; Skills-Syntax-SL : programming language, markup, tools...   
+&emsp;&emsp; Skills-Syntax-SL-T : programming language, markup, tools...   
 &emsp;&emsp; Data-Structure-Algorithm   
 &emsp;&emsp; Etc-Programming-Functions   
 &emsp;&emsp; Systems-Programming-Things-Design : network programming...   
-&emsp;&emsp; Framework-Library   
+&emsp;&emsp; Framework-Library : django...   
 
 ## 💀 Mini Project
-&emsp;&emsp; Filechain &emsp;⏳20%   
-&emsp;&emsp; CinemaEventNotify &emsp;⏳30%   
-&emsp;&emsp; SimpleProjectOne &emsp;⏳30%   
+&emsp;&emsp; Filechain &emsp;⏳30%   
+&emsp;&emsp; CinemaEventNotify &emsp;⏳50%   
+&emsp;&emsp; SimpleProjectOne &emsp;⏳50%   
 
 
 <!--
