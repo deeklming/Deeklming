@@ -4,14 +4,14 @@
 
 
 ## 👀 Study Log
-&emsp;&emsp; Skills-Syntax-SL-T : programming language, markup, tools...   
-&emsp;&emsp; Data-Structure-Algorithm   
-&emsp;&emsp; Etc-Programming-Functions   
+&emsp;&emsp; Skills-Syntax-SL-T-FeL : programming language, markup, tools, framework...   
+&emsp;&emsp; Data-Structure-Algorithm : algorithm...   
+&emsp;&emsp; Etc-Programming-Functions : functions...   
 &emsp;&emsp; Systems-Programming-Things-Design : network programming...   
-&emsp;&emsp; Framework-Library : django...   
+
 
 ## 💀 Mini Project
-&emsp;&emsp; Filechain &emsp;⏳30%   
+&emsp;&emsp; Filechain &emsp;⏳35%   
 &emsp;&emsp; CinemaEventNotify &emsp;⏳50%   
 &emsp;&emsp; SimpleProjectOne &emsp;⏳50%   
 
