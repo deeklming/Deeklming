@@ -9,11 +9,14 @@
 &emsp;&emsp; Programming-Functions-Designs : functions, network programming...   
 
 
-## 💀 Mini Project
-&emsp;&emsp; Filechain &emsp;⏳35%   
+## 👻 Mini Project
+&emsp;&emsp; filechain &emsp;⏳30%   
 &emsp;&emsp; CinemaEventNotify &emsp;⏳50%   
 &emsp;&emsp; SimpleProjectOne &emsp;⏳50%   
 
+
+## 💀 Team Project
+&emsp;&emsp; Pechesse &emsp;   
 
 <!--
 **Deeklming/Deeklming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
