@@ -10,9 +10,9 @@
 
 
 ## 👻 Mini Project
-&emsp;&emsp; filechain &emsp;⏳30%   
-&emsp;&emsp; CinemaEventNotify &emsp;⏳50%   
-&emsp;&emsp; SimpleProjectOne &emsp;⏳50%   
+&emsp;&emsp; filechain &emsp;   
+&emsp;&emsp; CinemaEventNotify &emsp;   
+&emsp;&emsp; SimpleProjectOne &emsp;   
 
 
 ## 💀 Team Project
