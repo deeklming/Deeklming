@@ -4,8 +4,7 @@
 
 
 ## 👀 Study Log
-&emsp;&emsp; Skills-Syntax-SL-T-FeL : programming language, markup, tools, framework...   
-&emsp;&emsp; Data-Structure-Algorithm : algorithm...   
+&emsp;&emsp; Skills-Stack : programming language, tools, framework, algorithm...   
 &emsp;&emsp; Programming-Functions-Designs : functions, network programming...   
 
 
@@ -17,6 +16,11 @@
 
 ## 💀 Team Project
 &emsp;&emsp; Pechesse &emsp;   
+
+
+## 💫 Real Project
+&emsp;&emsp; dkmlibes &emsp;   
+
 
 <!--
 **Deeklming/Deeklming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
