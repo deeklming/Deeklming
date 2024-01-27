@@ -9,20 +9,18 @@
 
 
 ## 👻 Mini Project
-&emsp;&emsp; filechain &emsp;   
-&emsp;&emsp; CinemaEventNotify &emsp;   
-&emsp;&emsp; SimpleProjectOne &emsp;   
+&emsp;&emsp; filechain &emsp;     
 
 
 ## 💀 Team Project
 &emsp;&emsp; Pechesse &emsp;   
 
 
+<!--
+
 ## 💫 Real Project
 &emsp;&emsp; dkmlibes &emsp;   
 
-
-<!--
 **Deeklming/Deeklming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
