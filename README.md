@@ -3,6 +3,7 @@
 ## 👋 Hello?
 
 
+<!--
 ## 👀 Study Log
 &emsp;&emsp; Skills-Stack : programming language, tools, framework, algorithm, functions...   
 &emsp;&emsp; Samples : etc...   
@@ -15,7 +16,7 @@
 
 ## 💀 Team Project
 &emsp;&emsp; Pechesse &emsp;   
-
+-->
 
 <!--
 
