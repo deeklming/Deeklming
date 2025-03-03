@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=260&section=header&text=Deeklming's&fontSize=80&desc=github&descSize=30&descAlignY=55)
 
+<!--
 ## 👋 Hello?
 
-
-<!--
 ## 👀 Study Log
 &emsp;&emsp; Skills-Stack : programming language, tools, framework, algorithm, functions...   
 &emsp;&emsp; Samples : etc...   
